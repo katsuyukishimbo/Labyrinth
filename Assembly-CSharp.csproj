@@ -45,6 +45,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\CameraScript.cs" />
      <Compile Include="Assets\PlayerScript.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/katsuyuki-shimbo/work/Labyrinth/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
